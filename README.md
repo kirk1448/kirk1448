@@ -1,4 +1,4 @@
-<div align = "center"><img src = "https://github.com/kirk1448/kirk1448/blob/main/spheregif.gif" width = "250" height = "auto"></div>
+<div align = "center"><img src = "https://github.com/kirk1448/kirk1448/blob/main/sphereg.gif" width = "250" height = "auto"></div>
 <div align = "center"> <h1> kirk1448 </h1> </div>
 <div align = "center"> 
 	<img src = "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"> &emsp;
